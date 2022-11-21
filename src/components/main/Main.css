@@ -1,0 +1,10 @@
+.main {
+  background-color: #f4f5f7;
+  min-height: calc(100vh - 100px);
+}
+
+.main-cards {
+  height: calc(100vh - 100px);
+  display: flex;
+  padding: 25px;
+}
